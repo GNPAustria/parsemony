@@ -71,7 +71,9 @@ Open your browser and navigate to:
 
 http://127.0.0.1:8000
 
+---
 🔍 How to Verify the Audit Trail
+
 You can inspect the tamper-proof audit ledger directly using Python to verify that transactions are successfully recorded in audit.db:
 
 Python
